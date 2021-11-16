@@ -17,19 +17,19 @@ pyblockplc FBD- Editor
 
 pyblockplc Simulator
 
-![](C:\Users\hs\Downloads\github\github_upload\github\doc\pyblock_simulator.png)
+![](https://github.com/pyplc/pyblockplc/blob/main/doc/pyblock_simulator.png)
 
 
 
 plc prototype hardware 24V, 6 input, 4 relais output.
 
-![](C:\Users\hs\Downloads\github\github_upload\github\doc\schaltumg_2.png)
+![](https://github.com/pyplc/pyblockplc/blob/main/doc/schaltumg_2.png)
 
 
 
 Din rail case - APRA HO6
 
-![](C:\Users\hs\Downloads\github\github_upload\github\doc\apra_gehaeuse.png)
+![](https://github.com/pyplc/pyblockplc/blob/main/doc/apra_gehaeuse.png)
 
 License:
 
