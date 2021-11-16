@@ -1,0 +1,1 @@
+{"espLedPin": 5, "pwdPin": 2, "ledRedPin": 0, "sdaPin": 21, "sclPin": 22, "icAdress": 32}
