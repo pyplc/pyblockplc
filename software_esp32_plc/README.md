@@ -29,7 +29,7 @@ Main.py							Freeware
 
 Transfer files to esp32 with  program Thonny:
 
-![](C:\Users\hs\Downloads\github\github_upload\github\software_esp32_plc\doc\thonny.png)
+![](https://github.com/pyplc/pyblockplc/blob/main/software_esp32_plc/doc/thonny.png)
 
 
 
