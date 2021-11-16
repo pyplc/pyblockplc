@@ -1,0 +1,1 @@
+{"uploadPathExe": "C:/Users/hs/Downloads/Micropython/Thonny IDE/thonny-3.3.10-windows/thonny.exe"}
