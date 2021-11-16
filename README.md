@@ -7,11 +7,11 @@ Basis Micropython and as a PLC operating system a Python program called The ESP3
 plc_os_v1_0.mpy, the program plc_os_v1_0.mpy is the main program in Miropython is called in main.py in ESP32.
 Pyblockplc IDE compiles a file called program.json, the file program.json must be loaded into the root directory of the ESP32 and restarted by restart or start the board.
 
-![](doc\pyblockplc_schema.png)
+![](https://github.com/pyplc/pyblockplc/blob/main/doc/pyblockplc_schema.png)
 
 pyblockplc FBD- Editor
 
-![](C:\Users\hs\Downloads\github\github_upload\github\doc\pyblock_editor.png)
+![](https://github.com/pyplc/pyblockplc/blob/main/doc/pyblock_editor.png)
 
 
 
