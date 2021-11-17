@@ -8,17 +8,17 @@ Licensed under CERN OHL v.1.2
 
 PCB bottom:
 
-![](C:\Users\hs\Downloads\github\github_upload\github\hardware\doc\pcb_bottom.png)
+![](https://github.com/pyplc/pyblockplc/blob/main/hardware/doc/pcb_bottom.png)
 
 
 
 PCB midle:
 
-![](C:\Users\hs\Downloads\github\github_upload\github\hardware\doc\pcb_midle.png)
+![](https://github.com/pyplc/pyblockplc/blob/main/hardware/doc/pcb_midle.png)
 
 
 
 PCB top:
 
-![](C:\Users\hs\Downloads\github\github_upload\github\hardware\doc\pcb_top.png)
+![](https://github.com/pyplc/pyblockplc/blob/main/hardware/doc/pcb_top.png)
 
